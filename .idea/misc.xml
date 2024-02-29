@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="fenicsx_py11" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="fenicsx_py11" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="fenics_old" project-jdk-type="Python SDK" />
 </project>
